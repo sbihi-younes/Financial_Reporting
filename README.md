@@ -21,7 +21,6 @@ This Python project generates a financial analysis report for a selected stock. 
 ```
 
 
-```
 #Main
 ## Run the script, enter your desired stock ticker and a historical date. The program will automatically fetch financial data up to that date, generate key metrics and visualizations, and compile a professional PDF report summarizing the stock’s performance.
 
